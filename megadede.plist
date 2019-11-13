@@ -23,7 +23,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://PruebasMega.github.io/pic.jpg</string>
+						<string>http://MegaAndOctoApps.github.io/pic.jpg</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -31,7 +31,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://PruebasMega.github.io/pic.jpg</string>
+						<string>http://MegaAndOctoApps.github.io/pic.jpg</string>
 					</dict>
 				</array>
 				<key>metadata</key>
@@ -43,7 +43,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Megadede Beta 0.0.1</string>
+				<string>Megadede Beta 0.0.2</string>
 			</dict>
 		</dict>
 	</array>
